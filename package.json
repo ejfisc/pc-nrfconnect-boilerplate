@@ -1,8 +1,8 @@
 {
-    "name": "pc-nrfconnect-boilerplate",
+    "name": "pc-nrfconnect-pocketlab",
     "version": "0.0.1",
-    "description": "Starting point for creating nRF Connect apps",
-    "displayName": "Your App Name",
+    "description": "PL Program, Test, and Validation",
+    "displayName": "PocketLab",
     "homepage": "https://github.com/NordicSemiconductor/pc-nrfcosnnect-boilerplate",
     "repository": {
         "type": "git",
